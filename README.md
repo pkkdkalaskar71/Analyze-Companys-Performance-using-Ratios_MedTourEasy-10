@@ -1,1 +1,3 @@
-# Analyze-Companys-Performance-using-Ratios_MedTourEasy-10
+# Project_MedTourEasy-10
+
+Project 02 - Analyze Company's Performance using Ratios
